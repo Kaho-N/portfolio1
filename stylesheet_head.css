@@ -1,0 +1,21 @@
+.head,body,footer{
+    font-family: "Noto Sans JP";
+}
+.header{
+    float:left;
+    border-bottom:1px solid grey;
+}
+.header-logo{
+    float: left;
+    font-size: 30px;
+    padding-top: 15px;
+}
+.header-list{
+    float:right;
+    padding-top: 10px;
+}
+.header-list li{
+    list-style: none;
+    float: left;
+    padding: 0px 20px;
+}
